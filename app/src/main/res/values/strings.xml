@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">javaCoffee Cafe</string>
+    <string name="phone_number">phone: 9802347879</string>
+    <string name="website">website:www.javacoffee.com</string>
+    <string name="address">Tuslipur,Butwal</string>
+    <string name="email_address">Email: java@gmail.com</string>
+</resources>
